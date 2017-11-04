@@ -1,0 +1,19 @@
+{
+  "name": "tpfinallaboratorio3",
+  "version": "1.0.0",
+  "description": "Trabajo Practico final Laboratorio 3 - 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfatymajo/TP_Final-Laboratorio_3-2017.git"
+  },
+  "author": "alfatymajo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfatymajo/TP_Final-Laboratorio_3-2017/issues"
+  },
+  "homepage": "https://github.com/alfatymajo/TP_Final-Laboratorio_3-2017#readme"
+}
